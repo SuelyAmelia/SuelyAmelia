@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=" alt="Views" />Suely Amélia
-</div>
 
 ## ✨ Sobre mim
 
