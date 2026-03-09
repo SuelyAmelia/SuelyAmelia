@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=006bed" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=" alt="Views" />Suely Amélia
 </div>
 
-## ⚙️ Sobre mim
+## ✨ Sobre mim
 
 . Sou **Técnica em Eletrônica** e graduanda em **Engenharia de Produção na UEA**, unindo o conhecimento técnico de hardware à gestão estratégica de processos.
 
